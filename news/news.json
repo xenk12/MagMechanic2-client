@@ -1,0 +1,33 @@
+﻿[
+    {
+        "title":  "Новости переехали на GitHub",
+        "date":  "04.07.2026",
+        "summary":  "Лаунчер теперь может получать новости из репозитория MagMechanic2-client.",
+        "body":  "",
+        "imagePath":  "https://raw.githubusercontent.com/xenk12/MagMechanic2-client/main/news/media/news-thumb-main.png",
+        "mediaPath":  "https://raw.githubusercontent.com/xenk12/MagMechanic2-client/main/news/media/news-thumb-main.png",
+        "mediaType":  "image",
+        "blocks":  [
+                       {
+                           "type":  "heading",
+                           "text":  "Что изменилось",
+                           "mediaPath":  ""
+                       },
+                       {
+                           "type":  "text",
+                           "text":  "Теперь основной файл новостей хранится на GitHub. Его можно обновлять отдельно от сервера и лаунчера.",
+                           "mediaPath":  ""
+                       },
+                       {
+                           "type":  "image",
+                           "text":  "",
+                           "mediaPath":  "https://raw.githubusercontent.com/xenk12/MagMechanic2-client/main/news/media/news-thumb-main.png"
+                       },
+                       {
+                           "type":  "text",
+                           "text":  "Старый Hostero-путь можно оставить запасным вариантом, но новые версии лаунчера будут читать новости напрямую из репозитория.",
+                           "mediaPath":  ""
+                       }
+                   ]
+    }
+]
