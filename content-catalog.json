@@ -1,0 +1,29 @@
+{
+  "version": "2026-07-04",
+  "sections": [
+    {
+      "id": "recommended-mods",
+      "title": "Рекомендуемые моды",
+      "type": "mods",
+      "description": "Необязательные клиентские моды. Они не входят в обязательную серверную синхронизацию.",
+      "targetFolder": "mods",
+      "items": []
+    },
+    {
+      "id": "resourcepacks",
+      "title": "Ресурспаки",
+      "type": "resourcepacks",
+      "description": "Дополнительные ресурспаки, которые игрок может поставить вручную.",
+      "targetFolder": "resourcepacks",
+      "items": []
+    },
+    {
+      "id": "shaderpacks",
+      "title": "Шейдеры",
+      "type": "shaderpacks",
+      "description": "Рекомендуемые шейдерпаки. Они ставятся отдельно от обязательных модов.",
+      "targetFolder": "shaderpacks",
+      "items": []
+    }
+  ]
+}
