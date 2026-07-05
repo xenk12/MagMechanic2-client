@@ -1,8 +1,8 @@
 {
-    "version":  "1.3.8",
-    "setupUrl":  "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.3.8/MagMechanicLauncher_Setup.exe",
-    "sha256":  "de2d380f9f570b158e9d391f8225df372fb229c2b9ef3326894513a2f16c980e",
-    "portableZipUrl":  "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.3.8/MagMechanicLauncher_Portable.zip",
-    "portableSha256":  "740cf6ad009bd70c33e4127edcbc0b89a9de8880c546ce1f6b0ffcb90be2e5f4",
-    "notes":  "Добавлено окно Контент, каталог рекомендаций GitHub и fallback для аватаров скинов."
+  "version": "1.3.9",
+  "setupUrl": "",
+  "sha256": "",
+  "portableZipUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.3.9/MagMechanicLauncher_Portable_Update_1.3.9.zip",
+  "portableSha256": "04479c39773e4f9f1780cd70875da0265544eb3e6aa23fa0c34a8ed8feff5b17",
+  "notes": "Обновление интерфейса контента: моды, клиентские моды, шейдеры, ресурспаки и рекомендации."
 }
