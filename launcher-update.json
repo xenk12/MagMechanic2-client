@@ -1,8 +1,8 @@
 {
-  "version": "1.3.9",
-  "setupUrl": "",
-  "sha256": "",
-  "portableZipUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.3.9/MagMechanicLauncher_Portable_Update_1.3.9.zip",
-  "portableSha256": "04479c39773e4f9f1780cd70875da0265544eb3e6aa23fa0c34a8ed8feff5b17",
-  "notes": "Обновление интерфейса контента: моды, клиентские моды, шейдеры, ресурспаки и рекомендации."
+    "version":  "1.4.0",
+    "setupUrl":  "",
+    "sha256":  "",
+    "portableZipUrl":  "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.0/MagMechanicLauncher_Portable_Update_1.4.0.zip",
+    "portableSha256":  "20a31d82339dd956d9586e86c7547d5f8c207f504944a9cb61a7c820d4f1bcb9",
+    "notes":  "Launcher 1.4.0: GitHub manifest fallback to Hostero, local client mod delete/enable/disable, better content admin labels, safer log package handling."
 }
