@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.2",
+    "version":  "1.4.3",
     "setupUrl":  "",
     "sha256":  "",
-    "portableZipUrl":  "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.2/MagMechanicLauncher_Portable_Update_1.4.2.zip",
-    "portableSha256":  "98018818fdb442ada880d677c2fbe63b4989f6235510c37a5946ede4391ac951",
-    "notes":  "Launcher 1.4.2: NeoForge installer libraries are bundled and verified before the game starts; added password reset window with a six-digit email code."
+    "portableZipUrl":  "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.3/MagMechanicLauncher_Portable_Update_1.4.3.zip",
+    "portableSha256":  "394fe8320d7796eb2a9123c71c235ed36127e36d0120e8f35ed1c6258a96f560",
+    "notes":  "Launcher 1.4.3: complete NeoForge installer profile is bundled, including neoform, so the first game start no longer depends on Maven downloads."
 }
