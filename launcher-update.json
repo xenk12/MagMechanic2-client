@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.1",
+    "version":  "1.4.2",
     "setupUrl":  "",
     "sha256":  "",
-    "portableZipUrl":  "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.1/MagMechanicLauncher_Portable_Update_1.4.1.zip",
-    "portableSha256":  "1c9c599acdfbff1b347ddff2cba4347f42a2b02d1ba1397b7b862656e4614f08",
-    "notes":  "Launcher 1.4.1: mandatory mods download only from GitHub; Hostero mod fallback disabled; stale non-GitHub cache rejected; bundled GitHub manifest for first-run resilience; downloads retry up to three times."
+    "portableZipUrl":  "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.2/MagMechanicLauncher_Portable_Update_1.4.2.zip",
+    "portableSha256":  "98018818fdb442ada880d677c2fbe63b4989f6235510c37a5946ede4391ac951",
+    "notes":  "Launcher 1.4.2: NeoForge installer libraries are bundled and verified before the game starts; added password reset window with a six-digit email code."
 }
