@@ -1,4 +1,4 @@
-{
+﻿{
     "packName":  "Mag Mechanic 2",
     "minecraftVersion":  "1.21.1",
     "loader":  "neoforge-21.1.230",
@@ -51,6 +51,13 @@
                      "sha256":  "169e2fe0445e320562c0568baa4c796a69a3464a0a5e902c484be1be3e326a0b",
                      "size":  3125991,
                      "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/cc-tweaked-1.21.1-forge-1.119.0.jar",
+                     "required":  true
+                 },
+                 {
+                     "fileName":  "cmparallelpipes-neoforge-2.0.2.jar",
+                     "sha256":  "da852ea8c3588bd775ec038743bb3c8332a68e84fd969d56947f62cbf9fc3e11",
+                     "size":  28606,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/cmparallelpipes-neoforge-2.0.2.jar",
                      "required":  true
                  },
                  {
@@ -324,6 +331,13 @@
                      "sha256":  "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d",
                      "size":  1221583,
                      "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar",
+                     "required":  true
+                 },
+                 {
+                     "fileName":  "pipesnphysics-2.1.1.jar",
+                     "sha256":  "55f9a9a9fd2bccd51a3d50976fb54d37719f629b01403265d61b047378760a8d",
+                     "size":  379246,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/pipesnphysics-2.1.1.jar",
                      "required":  true
                  },
                  {
