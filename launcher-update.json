@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.3",
+    "version":  "1.4.4",
     "setupUrl":  "",
     "sha256":  "",
-    "portableZipUrl":  "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.3/MagMechanicLauncher_Portable_Update_1.4.3.zip",
-    "portableSha256":  "394fe8320d7796eb2a9123c71c235ed36127e36d0120e8f35ed1c6258a96f560",
-    "notes":  "Launcher 1.4.3: complete NeoForge installer profile is bundled, including neoform, so the first game start no longer depends on Maven downloads."
+    "portableZipUrl":  "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.4/MagMechanicLauncher_Portable_Update_1.4.4.zip",
+    "portableSha256":  "9695a80be03f9c8434f7be692ec80e3de18da6da458c957b1c32dd81ffb874d0",
+    "notes":  "Launcher 1.4.4: atomic mod updates, resilient GitHub downloads, Vista safe-mode fix, private GitHub diagnostics, improved content icons and administration."
 }
