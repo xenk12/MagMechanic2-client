@@ -1,29 +1,42 @@
 {
-  "version": "2026-07-04",
-  "sections": [
+  "Version": "2026-07-16",
+  "Sections": [
     {
-      "id": "recommended-mods",
-      "title": "Рекомендуемые моды",
-      "type": "mods",
-      "description": "Необязательные клиентские моды. Они не входят в обязательную серверную синхронизацию.",
-      "targetFolder": "mods",
-      "items": []
+      "Id": "recommended-mods",
+      "Title": "Рекомендуемые моды",
+      "Type": "mods",
+      "Description": "Необязательные клиентские моды. Они не входят в обязательную серверную синхронизацию.",
+      "TargetFolder": "mods",
+      "Items": [
+        {
+          "Name": "Новая рекомендация",
+          "Description": "",
+          "Version": "",
+          "FileName": "",
+          "Url": "",
+          "PageUrl": "",
+          "IconUrl": "",
+          "Sha256": "",
+          "Size": 0,
+          "Recommended": true
+        }
+      ]
     },
     {
-      "id": "resourcepacks",
-      "title": "Ресурспаки",
-      "type": "resourcepacks",
-      "description": "Дополнительные ресурспаки, которые игрок может поставить вручную.",
-      "targetFolder": "resourcepacks",
-      "items": []
+      "Id": "resourcepacks",
+      "Title": "Ресурспаки",
+      "Type": "resourcepacks",
+      "Description": "Дополнительные ресурспаки, которые игрок может поставить вручную.",
+      "TargetFolder": "resourcepacks",
+      "Items": []
     },
     {
-      "id": "shaderpacks",
-      "title": "Шейдеры",
-      "type": "shaderpacks",
-      "description": "Рекомендуемые шейдерпаки. Они ставятся отдельно от обязательных модов.",
-      "targetFolder": "shaderpacks",
-      "items": []
+      "Id": "shaderpacks",
+      "Title": "Шейдеры",
+      "Type": "shaderpacks",
+      "Description": "Рекомендуемые шейдерпаки. Они ставятся отдельно от обязательных модов.",
+      "TargetFolder": "shaderpacks",
+      "Items": []
     }
   ]
 }
