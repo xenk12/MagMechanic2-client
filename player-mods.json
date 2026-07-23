@@ -437,6 +437,27 @@
                      "size":  1387011,
                      "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
                      "required":  true
+                 },
+                 {
+                     "fileName":  "struts-1.2.7.jar",
+                     "sha256":  "c1689ad65571ef7c2f07f37014af65f5981503604a0aa7b2ebda14ae5fc54adc",
+                     "size":  215100,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/struts-1.2.7.jar",
+                     "required":  true
+                 },
+                 {
+                     "fileName":  "bits_n_bobs-2.1.12-beta.jar",
+                     "sha256":  "ceef695df9ebbcaccfe00bb1a3ce7ebf56b847f012e59fc525af7f006a8f9355",
+                     "size":  2749960,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/bits_n_bobs-2.1.12-beta.jar",
+                     "required":  true
+                 },
+                 {
+                     "fileName":  "create_aeronautics_throwable_rope_connector-0.4.1.jar",
+                     "sha256":  "70b5f5ed213b1621cd5c61b7a0408e8c26ed074207895d2459dc730601a5922d",
+                     "size":  187586,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/create_aeronautics_throwable_rope_connector-0.4.1.jar",
+                     "required":  true
                  }
              ]
 }
