@@ -369,10 +369,10 @@
                      "required":  true
                  },
                  {
-                     "fileName":  "sodium-neoforge-0.6.9+mc1.21.1.jar",
-                     "sha256":  "9b37be63086113cc1a96c6e52e44443d2a447861d79a3a1d3d84950c367df34b",
-                     "size":  1162487,
-                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/sodium-neoforge-0.6.9%2Bmc1.21.1.jar",
+                     "fileName":  "sodium-neoforge-0.8.12-beta.2+mc1.21.1.jar",
+                     "sha256":  "21f46a795137d7049a6736cea1e56837c633da532dd9fcb178363a8df771a4ea",
+                     "size":  1291421,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/sodium-neoforge-0.8.12-beta.2%2Bmc1.21.1.jar",
                      "required":  true
                  },
                  {
