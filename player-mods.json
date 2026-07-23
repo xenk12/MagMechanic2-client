@@ -362,10 +362,10 @@
                      "required":  true
                  },
                  {
-                     "fileName":  "sable-neoforge-1.21.1-1.2.2.jar",
-                     "sha256":  "15fb660a0d368204b37f3967bfcc48137397b7174ca2945c5635cc4539c755f8",
-                     "size":  12719293,
-                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/sable-neoforge-1.21.1-1.2.2.jar",
+                     "fileName":  "sable-neoforge-1.21.1-2.0.3.jar",
+                     "sha256":  "da6c3b66238586603d1dcaa2afb012d36815fbce0a2d5938fbb2936701d42279",
+                     "size":  12889000,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/sable-neoforge-1.21.1-2.0.3.jar",
                      "required":  true
                  },
                  {
