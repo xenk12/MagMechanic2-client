@@ -278,10 +278,10 @@
                      "required":  true
                  },
                  {
-                     "fileName":  "iris-neoforge-1.8.12+mc1.21.1.jar",
-                     "sha256":  "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
-                     "size":  2438548,
-                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
+                     "fileName":  "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+                     "sha256":  "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314",
+                     "size":  2540723,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar",
                      "required":  true
                  },
                  {
