@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.4",
-    "setupUrl":  "",
-    "sha256":  "",
-    "portableZipUrl":  "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.4/MagMechanicLauncher_Portable_Update_1.4.4.zip",
-    "portableSha256":  "9695a80be03f9c8434f7be692ec80e3de18da6da458c957b1c32dd81ffb874d0",
-    "notes":  "Launcher 1.4.4: atomic mod updates, resilient GitHub downloads, Vista safe-mode fix, private GitHub diagnostics, improved content icons and administration."
+    "version":  "1.4.5",
+    "setupUrl":  "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.5/MagMechanicLauncher_Setup.exe",
+    "sha256":  "D998FA648928321189BBF1749B11130F06041904A46F00EF0DAA9DD66BCE1891",
+    "portableZipUrl":  "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.5/MagMechanicLauncher_Portable_Update_1.4.5.zip",
+    "portableSha256":  "197A772137949585B6DE300D772FF93F7349E2F931CF485887F947C998F3C88F",
+    "notes":  "Launcher 1.4.5:"
 }
