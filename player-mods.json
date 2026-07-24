@@ -379,7 +379,7 @@
       "fileName": "sable-neoforge-1.21.1-2.0.3.jar",
       "sha256": "da6c3b66238586603d1dcaa2afb012d36815fbce0a2d5938fbb2936701d42279",
       "size": 12889000,
-      "url": "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/sable-neoforge-1.21.1-2.0.3.jar",
+      "url": "https://raw.githubusercontent.com/xenk12/MagMechanic2-client/main/mods/sable-neoforge-1.21.1-2.0.3.jar",
       "required": true
     },
     {
