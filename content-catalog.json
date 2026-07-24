@@ -1,35 +1,96 @@
 {
-    "Version":  "2026-07-16",
-    "Sections":  [
-                     {
-                         "Id":  "recommended-mods",
-                         "Title":  "Рекомендуемые моды",
-                         "Type":  "mods",
-                         "Description":  "Необязательные клиентские моды. Они не входят в обязательную серверную синхронизацию.",
-                         "TargetFolder":  "mods",
-                         "Items":  [
-
-                                   ]
-                     },
-                     {
-                         "Id":  "resourcepacks",
-                         "Title":  "Ресурспаки",
-                         "Type":  "resourcepacks",
-                         "Description":  "Дополнительные ресурспаки, которые игрок может поставить вручную.",
-                         "TargetFolder":  "resourcepacks",
-                         "Items":  [
-
-                                   ]
-                     },
-                     {
-                         "Id":  "shaderpacks",
-                         "Title":  "Шейдеры",
-                         "Type":  "shaderpacks",
-                         "Description":  "Рекомендуемые шейдерпаки. Они ставятся отдельно от обязательных модов.",
-                         "TargetFolder":  "shaderpacks",
-                         "Items":  [
-
-                                   ]
-                     }
-                 ]
+  "version": "2026-07-24",
+  "sections": [
+    {
+      "id": "recommended-mods",
+      "title": "Рекомендуемые моды",
+      "type": "mods",
+      "description": "Необязательные клиентские моды. Они не входят в обязательную серверную синхронизацию.",
+      "targetFolder": "mods",
+      "items": [
+        {
+          "name": "Better Ping Display",
+          "description": "Показывает точный пинг игроков в списке Tab.",
+          "version": "1.21.1-1.1",
+          "fileName": "BetterPingDisplay-1.21.1-1.1.jar",
+          "url": "https://cdn.modrinth.com/data/ZvaHbwoZ/versions/AzKubcBR/BetterPingDisplay-1.21.1-1.1.jar",
+          "pageUrl": "https://modrinth.com/mod/better-ping-display/version/AzKubcBR",
+          "iconUrl": "https://cdn.modrinth.com/data/ZvaHbwoZ/icon.png",
+          "sha256": "f8388de4831ca70f3e94d98d4655278b514f8589234fa92df0d6b2ff1dff321b",
+          "size": 13871,
+          "recommended": true
+        }
+      ]
+    },
+    {
+      "id": "resourcepacks",
+      "title": "Ресурспаки",
+      "type": "resourcepacks",
+      "description": "Дополнительные ресурспаки игрока. Обязательный перевод устанавливается лаунчером отдельно.",
+      "targetFolder": "resourcepacks",
+      "items": []
+    },
+    {
+      "id": "shaderpacks",
+      "title": "Шейдеры",
+      "type": "shaderpacks",
+      "description": "Шейдеры из проверенной сборки Mag Mechanic 2.",
+      "targetFolder": "shaderpacks",
+      "items": [
+        {
+          "name": "Bliss",
+          "description": "Кинематографичные облака, освещение и атмосферные эффекты.",
+          "version": "2.1.2",
+          "fileName": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+          "url": "http://57.128.211.130:10106/public-resourcepacks/Bliss_v2.1.2_%28Chocapic13_Shaders_edit%29.zip",
+          "mirrors": [
+            "https://raw.githubusercontent.com/xenk12/MagMechanic2-client/main/content/shaderpacks/Bliss_v2.1.2_%28Chocapic13_Shaders_edit%29.zip"
+          ],
+          "sha256": "f41db92acc585fe9ffe0cc124d6ecaea27cef9ded91129ebc2a8e60226947b2c",
+          "size": 1791406,
+          "recommended": true
+        },
+        {
+          "name": "Complementary Reimagined",
+          "description": "Сбалансированный шейдер для хорошего качества изображения и производительности.",
+          "version": "5.8.1",
+          "fileName": "ComplementaryReimagined_r5.8.1.zip",
+          "url": "http://57.128.211.130:10106/public-resourcepacks/ComplementaryReimagined_r5.8.1.zip",
+          "mirrors": [
+            "https://raw.githubusercontent.com/xenk12/MagMechanic2-client/main/content/shaderpacks/ComplementaryReimagined_r5.8.1.zip"
+          ],
+          "sha256": "3f1cd389e717b2e62f58edff222059b9c60de71b14bb49b517eb58318ce35b15",
+          "size": 546925,
+          "recommended": true
+        },
+        {
+          "name": "Photon",
+          "description": "Контрастное освещение и выразительная погода.",
+          "version": "1.3b",
+          "fileName": "photon_v1.3b.zip",
+          "url": "http://57.128.211.130:10106/public-resourcepacks/photon_v1.3b.zip",
+          "mirrors": [
+            "https://raw.githubusercontent.com/xenk12/MagMechanic2-client/main/content/shaderpacks/photon_v1.3b.zip"
+          ],
+          "sha256": "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead",
+          "size": 3800987,
+          "recommended": true
+        },
+        {
+          "name": "Solas Shader",
+          "description": "Яркое объёмное освещение с развитой системой облаков и отражений.",
+          "version": "3.7",
+          "fileName": "Solas Shader V3.7.zip",
+          "url": "http://57.128.211.130:10106/public-resourcepacks/Solas%20Shader%20V3.7.zip",
+          "mirrors": [
+            "https://raw.githubusercontent.com/xenk12/MagMechanic2-client/main/content/shaderpacks/Solas%20Shader%20V3.7.zip"
+          ],
+          "sha256": "c8f53e66e567f2e8eacddbcc31ecbb6d77ac5f594d19423247c2a96c44d96a47",
+          "size": 1241525,
+          "recommended": true
+        }
+      ]
+    }
+  ]
 }
+
