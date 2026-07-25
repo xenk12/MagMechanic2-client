@@ -1,8 +1,8 @@
 {
-  "version": "1.4.10",
-  "setupUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.10/MagMechanicLauncher_Setup.exe",
-  "sha256": "BCA4216AFF6FE2C46D2ACCD3640D23302B7158CBC073DA81BF53ED2729D59A89",
-  "portableZipUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.10/MagMechanicLauncher_Portable_Update_1.4.10.zip",
-  "portableSha256": "9FD25C9E1423AB6812417455DFAF1DD117D5D12FCBC8B7793B1B8C0BE29E45D3",
-  "notes": "Launcher 1.4.10: Lift n’ Load загружается только с Hostero; Modrinth запрещён для обязательных модов. Лаунчер заранее заполняет проверенный кэш серверного ресурспака и заменяет повреждённую локальную копию."
+  "version": "1.4.11",
+  "setupUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.11/MagMechanicLauncher_Setup.exe",
+  "sha256": "24C0B0F3D1F5F63D3D6026CB1EC41A7964E41DE034C82A7173EF950813036BFD",
+  "portableZipUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.11/MagMechanicLauncher_Portable_Update_1.4.11.zip",
+  "portableSha256": "E47F4A54F9435E7012AAFC00D17985239472E218CA6A45D8B6A7E5E62F6B1DBA",
+  "notes": "Launcher 1.4.11: исправлена подмена профиля между аккаунтами. Сессия перепроверяется Guard, ник берётся только из ответа сервера, поля аккаунта блокируются после входа, а параллельные копии лаунчера запрещены."
 }
