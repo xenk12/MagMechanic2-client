@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.7",
-    "setupUrl":  "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.7/MagMechanicLauncher_Setup.exe",
-    "sha256":  "DD6647D0473EBA62A8D7E7D202D3D0967488937BD959791E2D9A784BE117275B",
-    "portableZipUrl":  "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.7/MagMechanicLauncher_Portable_Update_1.4.7.zip",
-    "portableSha256":  "2D6B2C20FB067AD091293F91BBBE96F28B1168327243C2B03153D35AD5CFD0C7",
-    "notes":  "Launcher 1.4.7: запуск Minecraft без чёрного окна Java, отдельные окна «Контент» и рекомендаций, Keybinds Galore вместо Keybind Bundles с автоматическим карантином старого мода."
+  "version": "1.4.8",
+  "setupUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.8/MagMechanicLauncher_Setup.exe",
+  "sha256": "D81C095F1C9D18C4D2DFA7157AAE8393CCBFE85825F3B9A55549B33A76465F84",
+  "portableZipUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.8/MagMechanicLauncher_Portable_Update_1.4.8.zip",
+  "portableSha256": "31638256EE6A1B3B6642328F4EE844A00F74D64DBFBDF0D97FD980867D7180FC",
+  "notes": "Launcher 1.4.8: безопасная загрузка обязательного Create: Lift n’ Load 1.0c с официального CDN, проверка HTTPS-источника и отсутствие передачи данных авторизации внешнему хосту."
 }
