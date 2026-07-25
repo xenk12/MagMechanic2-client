@@ -1,8 +1,8 @@
 {
-  "version": "1.4.8",
-  "setupUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.8/MagMechanicLauncher_Setup.exe",
-  "sha256": "D81C095F1C9D18C4D2DFA7157AAE8393CCBFE85825F3B9A55549B33A76465F84",
-  "portableZipUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.8/MagMechanicLauncher_Portable_Update_1.4.8.zip",
-  "portableSha256": "31638256EE6A1B3B6642328F4EE844A00F74D64DBFBDF0D97FD980867D7180FC",
-  "notes": "Launcher 1.4.8: безопасная загрузка обязательного Create: Lift n’ Load 1.0c с официального CDN, проверка HTTPS-источника и отсутствие передачи данных авторизации внешнему хосту."
+  "version": "1.4.9",
+  "setupUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.9/MagMechanicLauncher_Setup.exe",
+  "sha256": "538882216E39C7F2F341D51225B5A182168BD788233B393D8507E2991FA7AE5B",
+  "portableZipUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.9/MagMechanicLauncher_Portable_Update_1.4.9.zip",
+  "portableSha256": "0A3EF74219399AB63E6CD63C869A3717F2E792FB6CA19D9819447BA1F2268CF9",
+  "notes": "Launcher 1.4.9: защита от повторного запуска Minecraft и параллельных запросов входа, безопасное обновление native DLL, исправленный совместимый режим Sable, понятный статус аккаунта и обязательный Create: Lift n’ Load 1.0c."
 }
