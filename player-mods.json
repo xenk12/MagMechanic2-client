@@ -327,6 +327,13 @@
       "required": true
     },
     {
+      "fileName": "Lift-n-Load-1.21.1-1.0c.jar",
+      "sha256": "20087e804427b71ba8d02b6181e029c3681577081abb6688129d7f46d8aa7f98",
+      "size": 261308,
+      "url": "https://cdn.modrinth.com/data/aJR8vXL6/versions/G7N1k717/Lift-n-Load-1.21.1-1.0c.jar",
+      "required": true
+    },
+    {
       "fileName": "lithium-neoforge-0.15.3+mc1.21.1.jar",
       "sha256": "a6548862bd13ff8eea6747cf61df50c8374a16a22d067614e414ed600eee6d83",
       "size": 774148,
