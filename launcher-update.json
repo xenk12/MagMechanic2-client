@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.6",
-    "setupUrl":  "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.6/MagMechanicLauncher_Setup.exe",
-    "sha256":  "3B35AF336793EF66D69F7663A795E5600D93469119649B75733E55A97124D00D",
-    "portableZipUrl":  "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.6/MagMechanicLauncher_Portable_Update_1.4.6.zip",
-    "portableSha256":  "602C0F9E25E50D1D3EF15C683BD1BD800D1B15379C925A96F29DB17F7155AB46",
-    "notes":  "Launcher 1.4.6: GitHub-зеркала обязательного ресурспака и Java, подробные метрики качества загрузок, безопасный карантин старых дубликатов модов и обновлённое окно рекомендуемого контента."
+    "version":  "1.4.7",
+    "setupUrl":  "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.7/MagMechanicLauncher_Setup.exe",
+    "sha256":  "DD6647D0473EBA62A8D7E7D202D3D0967488937BD959791E2D9A784BE117275B",
+    "portableZipUrl":  "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.7/MagMechanicLauncher_Portable_Update_1.4.7.zip",
+    "portableSha256":  "2D6B2C20FB067AD091293F91BBBE96F28B1168327243C2B03153D35AD5CFD0C7",
+    "notes":  "Launcher 1.4.7: запуск Minecraft без чёрного окна Java, отдельные окна «Контент» и рекомендаций, Keybinds Galore вместо Keybind Bundles с автоматическим карантином старого мода."
 }
