@@ -53,13 +53,7 @@
       "url": "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/bits_n_bobs-2.1.12-beta.jar",
       "required": true
     },
-    {
-      "fileName": "carryon-neoforge-1.21.1-2.2.4.4.jar",
-      "sha256": "ad69537be8be8b433227792e43f8df7b4d3cef7e359255d471a44e776ad8dd57",
-      "size": 357489,
-      "url": "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/carryon-neoforge-1.21.1-2.2.4.4.jar",
-      "required": true
-    },
+  
     {
       "fileName": "cc-tweaked-1.21.1-forge-1.119.0.jar",
       "sha256": "169e2fe0445e320562c0568baa4c796a69a3464a0a5e902c484be1be3e326a0b",
