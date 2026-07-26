@@ -1,11 +1,11 @@
 {
-  "version": "1.4.11",
-  "setupUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.11/MagMechanicLauncher_Setup.exe",
-  "sha256": "24C0B0F3D1F5F63D3D6026CB1EC41A7964E41DE034C82A7173EF950813036BFD",
-  "portableZipUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.11/MagMechanicLauncher_Portable_Update_1.4.11.zip",
+  "version": "1.4.12",
+  "setupUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.12/MagMechanicLauncher_Setup.exe",
+  "sha256": "C582ADEF6FBA6F71C1CF62152568CF6594AFBB7763F06EFCCAFCC2A5F4239E1F",
+  "portableZipUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.12/MagMechanicLauncher_Portable_Update_1.4.12.zip",
   "portableZipMirrors": [
-    "http://57.128.211.130:10106/launcher-runtime/MagMechanicLauncher_Portable_Update_1.4.11.zip"
+    "http://57.128.211.130:10106/launcher-runtime/MagMechanicLauncher_Portable_Update_1.4.12.zip"
   ],
-  "portableSha256": "E47F4A54F9435E7012AAFC00D17985239472E218CA6A45D8B6A7E5E62F6B1DBA",
-  "notes": "Launcher 1.4.11: исправлена подмена профиля между аккаунтами. Сессия перепроверяется Guard, ник берётся только из ответа сервера, поля аккаунта блокируются после входа, а параллельные копии лаунчера запрещены."
+  "portableSha256": "89A8382AD4D3869BBD2DEA1D4CE15ED1D635FCF0006CD640D1B4DAEE6831E473",
+  "notes": "Launcher 1.4.12: вход принимает только Guard 0.1.5+ и проверяет привязку ответа к введённой почте. Старый или зависший Guard и ответ другого аккаунта блокируются до запуска Minecraft."
 }
