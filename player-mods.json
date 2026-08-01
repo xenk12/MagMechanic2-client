@@ -816,6 +816,16 @@
                                      "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2FBrewinAndChewin-neoforge-4.4.2%2B1.21.1.jar"
                                  ],
                      "required":  true
+                 },
+                 {
+                     "fileName":  "create_recipe_selector-1.0.0.jar",
+                     "sha256":  "17b9cad272cea02edd4a56d163f93cf5d60e3af22e12641b1f85d5758d8e27c3",
+                     "size":  29465,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260801/create_recipe_selector-1.0.0.jar",
+                     "mirrors":  [
+
+                                 ],
+                     "required":  true
                  }
              ]
 }
