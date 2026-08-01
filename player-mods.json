@@ -53,7 +53,6 @@
       "url": "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/bits_n_bobs-2.1.12-beta.jar",
       "required": true
     },
-  
     {
       "fileName": "cc-tweaked-1.21.1-forge-1.119.0.jar",
       "sha256": "169e2fe0445e320562c0568baa4c796a69a3464a0a5e902c484be1be3e326a0b",
@@ -66,6 +65,13 @@
       "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
       "size": 1163890,
       "url": "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/cloth-config-15.0.140-neoforge.jar",
+      "required": true
+    },
+    {
+      "fileName": "cmparallelpipes-neoforge-2.0.2.jar",
+      "sha256": "da852ea8c3588bd775ec038743bb3c8332a68e84fd969d56947f62cbf9fc3e11",
+      "size": 28606,
+      "url": "https://cdn.modrinth.com/data/5jfUeix5/versions/aYrPugrv/cmparallelpipes-neoforge-2.0.2.jar",
       "required": true
     },
     {
@@ -146,6 +152,13 @@
       "required": true
     },
     {
+      "fileName": "create-gunsmithing-1.21.1-1.4.9.jar",
+      "sha256": "d9e00c7e9cc5dec11455d42dd0f6d78418ce2213c4740ca8bec6b1e0e73adf1d",
+      "size": 1819221,
+      "url": "https://cdn.modrinth.com/data/7KCNsGPM/versions/AmBZCjMo/create-gunsmithing-1.21.1-1.4.9.jar",
+      "required": true
+    },
+    {
       "fileName": "createbigcannons-5.11.5+mc.1.21.1.jar",
       "sha256": "2c0576338ec400bef5ca373650e3e919eee602c002ce1b7b6eb0f69f3c67764a",
       "size": 3765142,
@@ -153,10 +166,24 @@
       "required": true
     },
     {
+      "fileName": "createmetallurgy-1.0.3-1.21.1.jar",
+      "sha256": "8f1c30c9f800c367a40715e8e6662f736f4547737987dfc30c10172b89b5d93f",
+      "size": 2035560,
+      "url": "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260801/createmetallurgy-1.0.3-1.21.1.jar",
+      "required": true
+    },
+    {
       "fileName": "createpropulsion-1.1.4.jar",
       "sha256": "816329242ce595d0f8b8bd1a7ea00df48470d41f5b79240fab682bbfbe6f39a1",
       "size": 1196735,
       "url": "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/createpropulsion-1.1.4.jar",
+      "required": true
+    },
+    {
+      "fileName": "createredstonelinkgui-1.21.1-1.9.2.jar",
+      "sha256": "34cb29227e7aa2a497956aa6f5bb74f07f40f134346ca847c0d4350b87345c97",
+      "size": 243975,
+      "url": "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260801/createredstonelinkgui-1.21.1-1.9.2.jar",
       "required": true
     },
     {
@@ -188,13 +215,6 @@
       "required": true
     },
     {
-      "fileName": "drinkbeer-refill-1.21.1-1.2.0.jar",
-      "sha256": "b1be6f4f5d6b94054a5ab30b2a193b766c41f311bb15914f245b20e67e42a420",
-      "size": 1498395,
-      "url": "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/drinkbeer-refill-1.21.1-1.2.0.jar",
-      "required": true
-    },
-    {
       "fileName": "end_arena-0.8.5.jar",
       "sha256": "bf82ad5a42b7a082442d0a5a525a551021ea6587ea064a09582b25bb4f51bfc2",
       "size": 17274262,
@@ -220,6 +240,13 @@
       "sha256": "cf2de1ac5439e72a7020ba7ad42ea5b0e225b0fbaaa4ca941913e74c77ea582b",
       "size": 512511,
       "url": "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/escalated-1.3.1-mc.1.21.1.jar",
+      "required": true
+    },
+    {
+      "fileName": "explosionoverhaul-0.2.3.0-neoforge.jar",
+      "sha256": "f6f8040cf1a177cc771c2d5f32677323b4bb87b41db210877de0192489ed8af1",
+      "size": 100092594,
+      "url": "https://cdn.modrinth.com/data/sOxnTLKl/versions/mxfQE01f/explosionoverhaul-0.2.3.0-neoforge.jar",
       "required": true
     },
     {
@@ -255,6 +282,13 @@
       "sha256": "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050",
       "size": 2369895,
       "url": "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar",
+      "required": true
+    },
+    {
+      "fileName": "geckolib-neoforge-1.21.1-4.9.2.jar",
+      "sha256": "5e548466af9ab6aca7a91a7c7d4dc0dc8bc385e22958aed5da0e7bebd0fa3fba",
+      "size": 630584,
+      "url": "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260801/geckolib-neoforge-1.21.1-4.9.2.jar",
       "required": true
     },
     {
@@ -324,7 +358,7 @@
       "fileName": "Lift-n-Load-1.21.1-1.0c.jar",
       "sha256": "20087e804427b71ba8d02b6181e029c3681577081abb6688129d7f46d8aa7f98",
       "size": 261308,
-      "url": "http://57.128.211.130:10106/mods/Lift-n-Load-1.21.1-1.0c.jar",
+      "url": "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/Lift-n-Load-1.21.1-1.0c.jar",
       "required": true
     },
     {
@@ -342,10 +376,24 @@
       "required": true
     },
     {
+      "fileName": "mag_mechanic_guard-0.2.0.jar",
+      "sha256": "3e3d1f4c5b838361f27161303a3de38abf4c81bd005a800eab1f8826f5877ee8",
+      "size": 55942,
+      "url": "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260801/mag_mechanic_guard-0.2.0.jar",
+      "required": true
+    },
+    {
       "fileName": "moonlight-neoforge-1.21.1-3.0.14.jar",
       "sha256": "7ec257edce1d4783d3a5143f3f237dd060d3140a2dfcf46522a5052111072acd",
       "size": 1578765,
       "url": "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/moonlight-neoforge-1.21.1-3.0.14.jar",
+      "required": true
+    },
+    {
+      "fileName": "ntgl-1.21.1-3.1.8.jar",
+      "sha256": "41d0601d5b562f863a14fe9363aa80fda9472416593fb2ec4d57fcaa6da284f5",
+      "size": 3966979,
+      "url": "https://cdn.modrinth.com/data/5m2kV8xK/versions/imvFmxur/ntgl-1.21.1-3.1.8.jar",
       "required": true
     },
     {

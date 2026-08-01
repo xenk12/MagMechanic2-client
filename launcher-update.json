@@ -1,11 +1,9 @@
 {
-  "version": "1.4.12",
-  "setupUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.12/MagMechanicLauncher_Setup.exe",
-  "sha256": "C582ADEF6FBA6F71C1CF62152568CF6594AFBB7763F06EFCCAFCC2A5F4239E1F",
-  "portableZipUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.12/MagMechanicLauncher_Portable_Update_1.4.12.zip",
-  "portableZipMirrors": [
-    "http://57.128.211.130:10106/launcher-runtime/MagMechanicLauncher_Portable_Update_1.4.12.zip"
-  ],
-  "portableSha256": "89A8382AD4D3869BBD2DEA1D4CE15ED1D635FCF0006CD640D1B4DAEE6831E473",
-  "notes": "Launcher 1.4.12: вход принимает только Guard 0.1.5+ и проверяет привязку ответа к введённой почте. Старый или зависший Guard и ответ другого аккаунта блокируются до запуска Minecraft."
+  "version": "1.4.13",
+  "setupUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.13/MagMechanicLauncher_Setup.exe",
+  "sha256": "8e1901226eba0bbb462468d1539a8f11b22bafa6478aae932955b4c50e10922e",
+  "portableZipUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.13/MagMechanicLauncher_Portable_Update_1.4.13.zip",
+  "portableZipMirrors": [],
+  "portableSha256": "f9b527b39314d36984d934298f700bd4270baa94df872a7c2542726b1eea796e",
+  "notes": "Launcher 1.4.13: защищённый одноразовый вход через Guard 0.2.0, загрузка модов без Hostero, телеметрия качества GitHub/сервера и обновлённое окно контента. Добавлены новые Create-моды и исправленный Parallel Pipes 2.0.2."
 }
