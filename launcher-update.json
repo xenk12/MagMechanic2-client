@@ -1,14 +1,14 @@
 {
-  "version": "1.4.14",
-  "setupUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.14/MagMechanicLauncher_Setup.exe",
+  "version": "1.4.15",
+  "setupUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.15/MagMechanicLauncher_Setup.exe",
   "setupMirrors": [
     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA&path=%2FMagMechanicLauncher_Setup.exe"
   ],
-  "sha256": "108c790b87ca09fdd4e922d16db4c7e0ae499e47cac7804adbe2f81ec7edb7b1",
-  "portableZipUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.14/MagMechanicLauncher_Portable_Update_1.4.14.zip",
+  "sha256": "fe0046060e27a19d232af9d628e3acbff470e355732031292f25cb939b68988f",
+  "portableZipUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.15/MagMechanicLauncher_Portable_Update_1.4.15.zip",
   "portableZipMirrors": [
-    "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA&path=%2FMagMechanicLauncher_Portable_Update_1.4.14.zip"
+    "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA&path=%2FMagMechanicLauncher_Portable_Update_1.4.15.zip"
   ],
-  "portableSha256": "521d8ecbc0e7dd845278cf72016106eb03a37af5ba5833164b064e7daaae06d2",
-  "notes": "Launcher 1.4.14: полное зеркало модов, ресурспака, шейдеров и обновлений на Яндекс Диске; добавлен Brewin' And Chewin' 4.4.2. GitHub остаётся основным источником, Яндекс автоматически используется как резервный."
+  "portableSha256": "73fed85eb33d281964c47eff7f590a6c5ff222789aea9d9de502be0267bcd4aa",
+  "notes": "Launcher 1.4.15: загрузка модов и обновлений полностью отключена с Hostero — используются только GitHub и Яндекс Диск. Для всех игроков отключены сообщения KeybindsGalore о совпадающих клавишах."
 }
