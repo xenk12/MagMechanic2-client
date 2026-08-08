@@ -834,7 +834,7 @@
                      "mirrors":  [
                                      "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2FBetterPingDisplay-1.21.1-1.1.jar"
                                  ],
-                     "required":  true
+                     "required":  false
                  }
              ]
 }
