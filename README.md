@@ -30,3 +30,11 @@ Client mod manifest:
 - raw URL: `https://raw.githubusercontent.com/xenk12/MagMechanic2-client/main/player-mods.json`
 
 The file names in the release must stay exactly the same as in `player-mods.json`, otherwise the launcher will get 404 errors.
+
+### `mods-20260809`
+
+This release contains the August 9 compatibility-tested batch for Minecraft
+1.21.1 / NeoForge 21.1.230: Iron's Spells and its dependencies/addons, Create:
+Mobile Packages, Create Propulsion 1.1.5, MagMechanic Content and the Struts
+server fix. The authoritative file names, sizes and SHA-256 hashes are stored in
+`player-mods.json`.

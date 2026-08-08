@@ -5,6 +5,16 @@
     "baseUrl":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/",
     "mods":  [
                  {
+                     "fileName":  "alshanex_familiars-1.21.1_v4.0.1.jar",
+                     "sha256":  "66f525131a6335eead6022fe60c67bc2627856b4908ee5a8589fc379e630cf88",
+                     "size":  21848296,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260809/alshanex_familiars-1.21.1_v4.0.1.jar",
+                     "mirrors":  [
+                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Falshanex_familiars-1.21.1_v4.0.1.jar"
+                                 ],
+                     "required":  true
+                 },
+                 {
                      "fileName":  "Aquaculture-1.21.1-2.7.21.jar",
                      "sha256":  "45f00f9059838b2fecc988861111d8b3d4613a5f1b3688a8dbfa8655751b85bb",
                      "size":  605949,
@@ -71,6 +81,16 @@
                                  ]
                  },
                  {
+                     "fileName":  "BetterPingDisplay-1.21.1-1.1.jar",
+                     "sha256":  "f8388de4831ca70f3e94d98d4655278b514f8589234fa92df0d6b2ff1dff321b",
+                     "size":  13871,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260801/BetterPingDisplay-1.21.1-1.1.jar",
+                     "mirrors":  [
+                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2FBetterPingDisplay-1.21.1-1.1.jar"
+                                 ],
+                     "required":  false
+                 },
+                 {
                      "fileName":  "bits_n_bobs-2.1.12-beta.jar",
                      "sha256":  "ceef695df9ebbcaccfe00bb1a3ce7ebf56b847f012e59fc525af7f006a8f9355",
                      "size":  2749960,
@@ -80,6 +100,16 @@
                                      null,
                                      "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fbits_n_bobs-2.1.12-beta.jar"
                                  ]
+                 },
+                 {
+                     "fileName":  "BrewinAndChewin-neoforge-4.4.2+1.21.1.jar",
+                     "sha256":  "2164f5c859b928d689f6cef566081f0db5b3339d401ef84eee84b2c28ffa8105",
+                     "size":  1566859,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260801/BrewinAndChewin-neoforge-4.4.2%2B1.21.1.jar",
+                     "mirrors":  [
+                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2FBrewinAndChewin-neoforge-4.4.2%2B1.21.1.jar"
+                                 ],
+                     "required":  true
                  },
                  {
                      "fileName":  "cc-tweaked-1.21.1-forge-1.119.0.jar",
@@ -192,6 +222,16 @@
                                  ]
                  },
                  {
+                     "fileName":  "create_mobile_packages-1.21.1-0.7.7.jar",
+                     "sha256":  "353bd6cd1e75f9e85241fb4e7147153d83a983569cb67ca9a6cc4d3fe2da7a80",
+                     "size":  605614,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260809/create_mobile_packages-1.21.1-0.7.7.jar",
+                     "mirrors":  [
+                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fcreate_mobile_packages-1.21.1-0.7.7.jar"
+                                 ],
+                     "required":  true
+                 },
+                 {
                      "fileName":  "create_radar-0.4.9.2-1.21.1.jar",
                      "sha256":  "79b0b1fa211d54c819fd32642ecc3f2ddd4d92ac348764e785a0a8c1901acfbe",
                      "size":  2991582,
@@ -203,6 +243,16 @@
                                  ]
                  },
                  {
+                     "fileName":  "create_recipe_selector-1.0.0.jar",
+                     "sha256":  "b71c663562b13a97a6f319d38fd25df950a0eac02a1fcfae0fa7abb2bb537fde",
+                     "size":  29460,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260801/create_recipe_selector-1.0.0.jar",
+                     "mirrors":  [
+                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fcreate_recipe_selector-1.0.0.jar"
+                                 ],
+                     "required":  true
+                 },
+                 {
                      "fileName":  "create_tweaked_controllers-1.21.1-1.2.7.jar",
                      "sha256":  "eda56263fabfcf4064dbaa8950a7f469775d4457dc807ee84ba29169690fda34",
                      "size":  303343,
@@ -212,6 +262,16 @@
                                      null,
                                      "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fcreate_tweaked_controllers-1.21.1-1.2.7.jar"
                                  ]
+                 },
+                 {
+                     "fileName":  "create_wizardry-1.21.1-0.5.0.jar",
+                     "sha256":  "2aea2828a3a570414fd370f8be5f4cc4158a3c363b75becfa74bb58b6dadc852",
+                     "size":  604049,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260809/create_wizardry-1.21.1-0.5.0.jar",
+                     "mirrors":  [
+                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fcreate_wizardry-1.21.1-0.5.0.jar"
+                                 ],
+                     "required":  true
                  },
                  {
                      "fileName":  "create-1.21.1-6.0.10.jar",
@@ -236,17 +296,6 @@
                                  ]
                  },
                  {
-                     "fileName":  "create-gunsmithing-1.21.1-1.4.9.jar",
-                     "sha256":  "d9e00c7e9cc5dec11455d42dd0f6d78418ce2213c4740ca8bec6b1e0e73adf1d",
-                     "size":  1819221,
-                     "url":  "https://cdn.modrinth.com/data/7KCNsGPM/versions/AmBZCjMo/create-gunsmithing-1.21.1-1.4.9.jar",
-                     "required":  true,
-                     "mirrors":  [
-                                     null,
-                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fcreate-gunsmithing-1.21.1-1.4.9.jar"
-                                 ]
-                 },
-                 {
                      "fileName":  "createbigcannons-5.11.5+mc.1.21.1.jar",
                      "sha256":  "2c0576338ec400bef5ca373650e3e919eee602c002ce1b7b6eb0f69f3c67764a",
                      "size":  3765142,
@@ -255,6 +304,17 @@
                      "mirrors":  [
                                      null,
                                      "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fcreatebigcannons-5.11.5%2Bmc.1.21.1.jar"
+                                 ]
+                 },
+                 {
+                     "fileName":  "create-gunsmithing-1.21.1-1.4.9.jar",
+                     "sha256":  "d9e00c7e9cc5dec11455d42dd0f6d78418ce2213c4740ca8bec6b1e0e73adf1d",
+                     "size":  1819221,
+                     "url":  "https://cdn.modrinth.com/data/7KCNsGPM/versions/AmBZCjMo/create-gunsmithing-1.21.1-1.4.9.jar",
+                     "required":  true,
+                     "mirrors":  [
+                                     null,
+                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fcreate-gunsmithing-1.21.1-1.4.9.jar"
                                  ]
                  },
                  {
@@ -269,15 +329,14 @@
                                  ]
                  },
                  {
-                     "fileName":  "createpropulsion-1.1.4.jar",
-                     "sha256":  "816329242ce595d0f8b8bd1a7ea00df48470d41f5b79240fab682bbfbe6f39a1",
-                     "size":  1196735,
-                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/createpropulsion-1.1.4.jar",
-                     "required":  true,
+                     "fileName":  "createpropulsion-1.1.5.jar",
+                     "sha256":  "5525a3a0c8b1c476cbc467d021e9d1492b58c78de31ed269eb04f169d42db0a1",
+                     "size":  1707765,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260809/createpropulsion-1.1.5.jar",
                      "mirrors":  [
-                                     null,
-                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fcreatepropulsion-1.1.4.jar"
-                                 ]
+                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fcreatepropulsion-1.1.5.jar"
+                                 ],
+                     "required":  true
                  },
                  {
                      "fileName":  "createredstonelinkgui-1.21.1-1.9.2.jar",
@@ -311,6 +370,16 @@
                                      null,
                                      "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fcupboard-1.21-3.5.jar"
                                  ]
+                 },
+                 {
+                     "fileName":  "curios-neoforge-9.5.1+1.21.1.jar",
+                     "sha256":  "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
+                     "size":  410690,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260809/curios-neoforge-9.5.1%2B1.21.1.jar",
+                     "mirrors":  [
+                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fcurios-neoforge-9.5.1%2B1.21.1.jar"
+                                 ],
+                     "required":  true
                  },
                  {
                      "fileName":  "CustomSkinLoader_Universal-14.28.jar",
@@ -388,6 +457,16 @@
                                      null,
                                      "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fexplosionoverhaul-0.2.3.0-neoforge.jar"
                                  ]
+                 },
+                 {
+                     "fileName":  "familiarslib-1.21.1-1.7_HotFix.jar",
+                     "sha256":  "07881d4850017a88f917a30f715431d2cc5c27c7756cdec3b9321266f178d615",
+                     "size":  340984,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260809/familiarslib-1.21.1-1.7_HotFix.jar",
+                     "mirrors":  [
+                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Ffamiliarslib-1.21.1-1.7_HotFix.jar"
+                                 ],
+                     "required":  true
                  },
                  {
                      "fileName":  "FarmersDelight-1.21.1-1.3.2.jar",
@@ -511,6 +590,26 @@
                                  ]
                  },
                  {
+                     "fileName":  "irons_lib-1.21.1-2.1.0.jar",
+                     "sha256":  "3d0ad1003d6edeaad2500b9922267b4192d2c603cdd846fda339b168f4deff72",
+                     "size":  406284,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260809/irons_lib-1.21.1-2.1.0.jar",
+                     "mirrors":  [
+                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Firons_lib-1.21.1-2.1.0.jar"
+                                 ],
+                     "required":  true
+                 },
+                 {
+                     "fileName":  "irons_spellbooks-1.21.1-3.16.2.jar",
+                     "sha256":  "82b650aff7636c8fa88da0e4cfea008c229bb62843274678ee932f6b4ec74430",
+                     "size":  13874139,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260809/irons_spellbooks-1.21.1-3.16.2.jar",
+                     "mirrors":  [
+                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Firons_spellbooks-1.21.1-3.16.2.jar"
+                                 ],
+                     "required":  true
+                 },
+                 {
                      "fileName":  "jei-1.21.1-neoforge-19.27.0.340.jar",
                      "sha256":  "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826",
                      "size":  1529391,
@@ -588,14 +687,24 @@
                                  ]
                  },
                  {
-                       "fileName": "mag_mechanic_guard-0.2.0.jar",
-                       "sha256": "8939db04e4a9ea8c2b71c0c9d34e7fdea7612e195ba752cbe5de6b614e7b9108",
-                       "size": 55481,
-                       "url": "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260801/mag_mechanic_guard-0.2.0.jar",
-                       "required": true,
-                       "mirrors": [
-                                    null
-                                  ]
+                     "fileName":  "mag_mechanic_guard-0.2.0.jar",
+                     "sha256":  "8939db04e4a9ea8c2b71c0c9d34e7fdea7612e195ba752cbe5de6b614e7b9108",
+                     "size":  55481,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260801/mag_mechanic_guard-0.2.0.jar",
+                     "required":  true,
+                     "mirrors":  [
+                                     null
+                                 ]
+                 },
+                 {
+                     "fileName":  "magmechanic_content-1.0.0.jar",
+                     "sha256":  "867df1f19895c108757c4a54605ada23ef1d19f07985e31ef15c2c5438d396e7",
+                     "size":  26859,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260809/magmechanic_content-1.0.0.jar",
+                     "mirrors":  [
+                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fmagmechanic_content-1.0.0.jar"
+                                 ],
+                     "required":  true
                  },
                  {
                      "fileName":  "moonlight-neoforge-1.21.1-3.0.14.jar",
@@ -640,6 +749,16 @@
                                      null,
                                      "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fpipesnphysics-2.1.1.jar"
                                  ]
+                 },
+                 {
+                     "fileName":  "player-animation-lib-forge-2.0.4+1.21.1.jar",
+                     "sha256":  "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92",
+                     "size":  203149,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260809/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
+                     "mirrors":  [
+                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fplayer-animation-lib-forge-2.0.4%2B1.21.1.jar"
+                                 ],
+                     "required":  true
                  },
                  {
                      "fileName":  "powergrid-mc1.21.1-0.5.5.1.jar",
@@ -708,6 +827,16 @@
                                  ]
                  },
                  {
+                     "fileName":  "struts_tick_fix-1.0.0.jar",
+                     "sha256":  "7d61b1516c9e1bc8a9ed80d41334c535ec9b8ece275225b7b4dca70c18b287a6",
+                     "size":  2380,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260809/struts_tick_fix-1.0.0.jar",
+                     "mirrors":  [
+                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fstruts_tick_fix-1.0.0.jar"
+                                 ],
+                     "required":  true
+                 },
+                 {
                      "fileName":  "struts-1.2.7.jar",
                      "sha256":  "c1689ad65571ef7c2f07f37014af65f5981503604a0aa7b2ebda14ae5fc54adc",
                      "size":  215100,
@@ -752,17 +881,6 @@
                                  ]
                  },
                  {
-                     "fileName":  "vista-neoforge-1.21.1-4.4.9.jar",
-                     "sha256":  "3dc1405726095520466c32331d745a245f8cea44cedb7722cb1c0718f34dddea",
-                     "size":  5520549,
-                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/vista-neoforge-1.21.1-4.4.9.jar",
-                     "required":  true,
-                     "mirrors":  [
-                                     null,
-                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fvista-neoforge-1.21.1-4.4.9.jar"
-                                 ]
-                 },
-                 {
                      "fileName":  "VistaAeronauticsFix-1.0.0.jar",
                      "sha256":  "81c7808d33876e10f53e0bc61fa6d4893f98bf5527706c45659c7f2c360a1c71",
                      "size":  155054,
@@ -771,6 +889,17 @@
                      "mirrors":  [
                                      null,
                                      "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2FVistaAeronauticsFix-1.0.0.jar"
+                                 ]
+                 },
+                 {
+                     "fileName":  "vista-neoforge-1.21.1-4.4.9.jar",
+                     "sha256":  "3dc1405726095520466c32331d745a245f8cea44cedb7722cb1c0718f34dddea",
+                     "size":  5520549,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/vista-neoforge-1.21.1-4.4.9.jar",
+                     "required":  true,
+                     "mirrors":  [
+                                     null,
+                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fvista-neoforge-1.21.1-4.4.9.jar"
                                  ]
                  },
                  {
@@ -783,6 +912,16 @@
                                      null,
                                      "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fvoicechat-neoforge-1.21.1-2.6.18.jar"
                                  ]
+                 },
+                 {
+                     "fileName":  "wind_spellbooks-1.0.1.jar",
+                     "sha256":  "6c52f79f224fc060496b31ff1ace72d0fd6c4754e4ecbfb6eedb359b9d91b884",
+                     "size":  443474,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260809/wind_spellbooks-1.0.1.jar",
+                     "mirrors":  [
+                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fwind_spellbooks-1.0.1.jar"
+                                 ],
+                     "required":  true
                  },
                  {
                      "fileName":  "xaerominimap-neoforge-1.21.1-25.3.13.jar",
@@ -805,36 +944,6 @@
                                      null,
                                      "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fxaeroworldmap-neoforge-1.21.1-1.40.16.jar"
                                  ]
-                 },
-                 {
-                     "fileName":  "BrewinAndChewin-neoforge-4.4.2+1.21.1.jar",
-                     "sha256":  "2164f5c859b928d689f6cef566081f0db5b3339d401ef84eee84b2c28ffa8105",
-                     "size":  1566859,
-                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260801/BrewinAndChewin-neoforge-4.4.2%2B1.21.1.jar",
-                     "mirrors":  [
-                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2FBrewinAndChewin-neoforge-4.4.2%2B1.21.1.jar"
-                                 ],
-                     "required":  true
-                 },
-                 {
-                     "fileName":  "create_recipe_selector-1.0.0.jar",
-                     "sha256":  "b71c663562b13a97a6f319d38fd25df950a0eac02a1fcfae0fa7abb2bb537fde",
-                     "size":  29460,
-                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260801/create_recipe_selector-1.0.0.jar",
-                     "mirrors":  [
-                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fcreate_recipe_selector-1.0.0.jar"
-                                 ],
-                    "required":  true
-                 },
-                 {
-                     "fileName":  "BetterPingDisplay-1.21.1-1.1.jar",
-                     "sha256":  "f8388de4831ca70f3e94d98d4655278b514f8589234fa92df0d6b2ff1dff321b",
-                     "size":  13871,
-                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260801/BetterPingDisplay-1.21.1-1.1.jar",
-                     "mirrors":  [
-                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2FBetterPingDisplay-1.21.1-1.1.jar"
-                                 ],
-                     "required":  false
                  }
              ]
 }
