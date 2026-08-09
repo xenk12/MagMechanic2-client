@@ -817,12 +817,12 @@
                                  ]
                  },
                  {
-                     "fileName":  "struts_tick_fix-1.0.1.jar",
-                     "sha256":  "ab0200981dbbce294a9e83e24b0fbf37539505f3ac4f784a00956bc3faab23cb",
-                     "size":  2534,
-                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260809/struts_tick_fix-1.0.1.jar",
+                     "fileName":  "struts_tick_fix-1.0.2.jar",
+                     "sha256":  "39e1c037ce49b88fd4d9d2cd5cb2dba68c58aa275c62d940cb099e8f3e0e9c64",
+                     "size":  3886,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260809/struts_tick_fix-1.0.2.jar",
                      "mirrors":  [
-                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fstruts_tick_fix-1.0.1.jar"
+                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fstruts_tick_fix-1.0.2.jar"
                                  ],
                      "required":  true
                  },
