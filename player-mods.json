@@ -871,14 +871,21 @@
                                  ]
                  },
                  {
-                     "fileName":  "VistaAeronauticsFix-1.0.0.jar",
-                     "sha256":  "81c7808d33876e10f53e0bc61fa6d4893f98bf5527706c45659c7f2c360a1c71",
-                     "size":  155054,
-                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260702/VistaAeronauticsFix-1.0.0.jar",
+                     "fileName":  "VistaAeronauticsFix-1.1.0.jar",
+                     "sha256":  "2f2c5ec0451b603a8ec55928704a238bf631761d667dda14d6ddf49cfb16b14c",
+                     "size":  3711,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260830-vista-waterwheel/VistaAeronauticsFix-1.1.0.jar",
                      "required":  true,
                      "mirrors":  [
-                                     null,
-                                     "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2FVistaAeronauticsFix-1.0.0.jar"
+                                 ]
+                 },
+                 {
+                     "fileName":  "WaterWheelPaddlingFix-1.0.0.jar",
+                     "sha256":  "d16a0e62b1289213ed814db604ed4a45858ca1b829122da14c28addf46477d13",
+                     "size":  5506,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260830-vista-waterwheel/WaterWheelPaddlingFix-1.0.0.jar",
+                     "required":  true,
+                     "mirrors":  [
                                  ]
                  },
                  {
