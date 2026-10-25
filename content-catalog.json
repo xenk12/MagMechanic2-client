@@ -1,101 +1,146 @@
 {
-    "version":  "2026-07-24",
-    "sections":  [
-                     {
-                         "id":  "recommended-mods",
-                         "title":  "Рекомендуемые моды",
-                         "type":  "mods",
-                         "description":  "Необязательные клиентские моды. Они не входят в обязательную серверную синхронизацию.",
-                         "targetFolder":  "mods",
-                         "items":  [
-                                       {
-                                           "name":  "Better Ping Display",
-                                           "description":  "Показывает точный пинг игроков в списке Tab.",
-                                           "version":  "1.21.1-1.1",
-                                           "fileName":  "BetterPingDisplay-1.21.1-1.1.jar",
-                                           "url":  "https://cdn.modrinth.com/data/ZvaHbwoZ/versions/AzKubcBR/BetterPingDisplay-1.21.1-1.1.jar",
-                                           "pageUrl":  "https://modrinth.com/mod/better-ping-display/version/AzKubcBR",
-                                           "iconUrl":  "https://cdn.modrinth.com/data/ZvaHbwoZ/icon.png",
-                                           "sha256":  "f8388de4831ca70f3e94d98d4655278b514f8589234fa92df0d6b2ff1dff321b",
-                                           "size":  13871,
-                                           "recommended":  true,
-                                           "mirrors":  [
-                                                           null,
-                                                           "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2FBetterPingDisplay-1.21.1-1.1.jar"
-                                                       ]
-                                       }
-                                   ]
-                     },
-                     {
-                         "id":  "resourcepacks",
-                         "title":  "Ресурспаки",
-                         "type":  "resourcepacks",
-                         "description":  "Дополнительные ресурспаки игрока. Обязательный перевод устанавливается лаунчером отдельно.",
-                         "targetFolder":  "resourcepacks",
-                         "items":  [
-
-                                   ]
-                     },
-                     {
-                         "id":  "shaderpacks",
-                         "title":  "Шейдеры",
-                         "type":  "shaderpacks",
-                         "description":  "Шейдеры из проверенной сборки Mag Mechanic 2.",
-                         "targetFolder":  "shaderpacks",
-                         "items":  [
-                                       {
-                                           "name":  "Bliss",
-                                           "description":  "Кинематографичные облака, освещение и атмосферные эффекты.",
-                                           "version":  "2.1.2",
-                                           "fileName":  "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
-                                           "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/content-20260725/Bliss_v2.1.2_.Chocapic13_Shaders_edit.zip",
-                                           "mirrors":  [
-                                                           "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2FBliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
-                                                       ],
-                                           "sha256":  "f41db92acc585fe9ffe0cc124d6ecaea27cef9ded91129ebc2a8e60226947b2c",
-                                           "size":  1791406,
-                                           "recommended":  true
-                                       },
-                                       {
-                                           "name":  "Complementary Reimagined",
-                                           "description":  "Сбалансированный шейдер для хорошего качества изображения и производительности.",
-                                           "version":  "5.8.1",
-                                           "fileName":  "ComplementaryReimagined_r5.8.1.zip",
-                                           "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/content-20260725/ComplementaryReimagined_r5.8.1.zip",
-                                           "mirrors":  [
-                                                           "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2FComplementaryReimagined_r5.8.1.zip"
-                                                       ],
-                                           "sha256":  "3f1cd389e717b2e62f58edff222059b9c60de71b14bb49b517eb58318ce35b15",
-                                           "size":  546925,
-                                           "recommended":  true
-                                       },
-                                       {
-                                           "name":  "Photon",
-                                           "description":  "Контрастное освещение и выразительная погода.",
-                                           "version":  "1.3b",
-                                           "fileName":  "photon_v1.3b.zip",
-                                           "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/content-20260725/photon_v1.3b.zip",
-                                           "mirrors":  [
-                                                           "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2Fphoton_v1.3b.zip"
-                                                       ],
-                                           "sha256":  "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead",
-                                           "size":  3800987,
-                                           "recommended":  true
-                                       },
-                                       {
-                                           "name":  "Solas Shader",
-                                           "description":  "Яркое объёмное освещение с развитой системой облаков и отражений.",
-                                           "version":  "3.7",
-                                           "fileName":  "Solas Shader V3.7.zip",
-                                           "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/content-20260725/Solas.Shader.V3.7.zip",
-                                           "mirrors":  [
-                                                           "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA\u0026path=%2FSolas%20Shader%20V3.7.zip"
-                                                       ],
-                                           "sha256":  "c8f53e66e567f2e8eacddbcc31ecbb6d77ac5f594d19423247c2a96c44d96a47",
-                                           "size":  1241525,
-                                           "recommended":  true
-                                       }
-                                   ]
-                     }
-                 ]
+  "version": "2026-10-25-optional-vr-lod",
+  "sections": [
+    {
+      "id": "recommended-mods",
+      "title": "Рекомендуемые моды",
+      "type": "mods",
+      "description": "Необязательные клиентские моды. Они не входят в обязательную серверную синхронизацию.",
+      "targetFolder": "mods",
+      "items": [
+        {
+          "name": "Better Ping Display",
+          "description": "Показывает точный пинг игроков в списке Tab.",
+          "version": "1.21.1-1.1",
+          "fileName": "BetterPingDisplay-1.21.1-1.1.jar",
+          "url": "https://cdn.modrinth.com/data/ZvaHbwoZ/versions/AzKubcBR/BetterPingDisplay-1.21.1-1.1.jar",
+          "pageUrl": "https://modrinth.com/mod/better-ping-display/version/AzKubcBR",
+          "iconUrl": "https://cdn.modrinth.com/data/ZvaHbwoZ/icon.png",
+          "sha256": "f8388de4831ca70f3e94d98d4655278b514f8589234fa92df0d6b2ff1dff321b",
+          "size": 13871,
+          "recommended": true,
+          "mirrors": [
+            "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA&path=%2FBetterPingDisplay-1.21.1-1.1.jar"
+          ]
+        },
+        {
+          "name": "Voxy — дальние ландшафты (NeoForge)",
+          "description": "Необязательно. Minecraft 1.21.1 / NeoForge, неофициальный порт. Нужны Sodium 0.6.13+ и Forgified Fabric API 0.102.0+ (есть в нашей текущей сборке); сначала обновите обязательные моды лаунчера. Поддержка сервера включена. Проверены вход и передача LOD. Возможны графические ошибки; VR и ваши шейдеры требуют отдельной проверки. Перед установкой закройте Minecraft. Не устанавливайте одновременно другую версию Voxy. Скачивание напрямую у автора, без нашего зеркала.",
+          "version": "0.6.0",
+          "fileName": "voxy-0.6.0.jar",
+          "url": "https://github.com/xiaoancute/voxy-neoforge/releases/download/v0.6.0/voxy-0.6.0.jar",
+          "pageUrl": "https://github.com/xiaoancute/voxy-neoforge/releases/tag/v0.6.0",
+          "sha256": "EE147BD4214F076642E146F5C161EB6D708F7B3E5726FBF40FB71F742EF4BD43",
+          "size": 94477297,
+          "recommended": true,
+          "mirrors": []
+        },
+        {
+          "name": "Vivecraft — игра в VR",
+          "description": "Необязательно, для VR. Minecraft 1.21.1 / NeoForge. Установите SteamVR и ПО вашего шлема отдельно. Перед установкой закройте Minecraft. Не устанавливайте вторую версию Vivecraft. Наличие мода не подтверждает настройку контроллеров; проверка в шлеме выполняется отдельно.",
+          "version": "1.21.1-1.3.15-neoforge",
+          "fileName": "vivecraft-1.21.1-1.3.15-neoforge.jar",
+          "url": "https://cdn.modrinth.com/data/wGoQDPN5/versions/LjqlbRAO/vivecraft-1.21.1-1.3.15-neoforge.jar",
+          "pageUrl": "https://modrinth.com/mod/vivecraft/version/LjqlbRAO",
+          "sha256": "0712A6167421BF337477AB1766293887441514F5186EC94B13E081C0779A6474",
+          "size": 5702557,
+          "recommended": true,
+          "mirrors": []
+        },
+        {
+          "name": "Custom Player Models — для Vivecraft Compat",
+          "description": "Необязательно. Обязательная зависимость Vivecraft Compat, но не обычного Vivecraft. Minecraft 1.21.1 / NeoForge. Перед установкой закройте Minecraft; не устанавливайте рядом другую версию CPM.",
+          "version": "1.21-0.6.27a",
+          "fileName": "CustomPlayerModels-1.21-0.6.27a.jar",
+          "url": "https://cdn.modrinth.com/data/h1E7sQNL/versions/YXfPij2E/CustomPlayerModels-1.21-0.6.27a.jar",
+          "pageUrl": "https://modrinth.com/mod/custom-player-models/version/YXfPij2E",
+          "sha256": "B5D3A473998648EEFDF646E10A48AF95DAC57ADD0DF681CA4407E83C716D6C84",
+          "size": 2793136,
+          "recommended": true,
+          "mirrors": []
+        },
+        {
+          "name": "Vivecraft Compat — сначала зависимости",
+          "description": "Дополнение для VR, НЕ самостоятельный мод. Сначала установите Vivecraft 1.3.15 и Custom Player Models 0.6.27a из этого списка. Пока лаунчер не устанавливает зависимости вместе, доступна только страница автора. Для NeoForge 1.21.1 выберите файл vivecraftcompat-1.21-1.5.1.jar. Закройте Minecraft перед установкой.",
+          "version": "1.21-1.5.1",
+          "fileName": "vivecraftcompat-1.21-1.5.1.jar",
+          "url": "",
+          "pageUrl": "https://modrinth.com/mod/vivecraft-compat/version/O9q6ZstV",
+          "sha256": "A158881B8F84A573A759C44AD887564022C88AEEBB3A97ED6BE2B30DF2C0C0FE",
+          "size": 141681,
+          "recommended": true,
+          "mirrors": []
+        }
+      ]
+    },
+    {
+      "id": "resourcepacks",
+      "title": "Ресурспаки",
+      "type": "resourcepacks",
+      "description": "Дополнительные ресурспаки игрока. Обязательный перевод устанавливается лаунчером отдельно.",
+      "targetFolder": "resourcepacks",
+      "items": []
+    },
+    {
+      "id": "shaderpacks",
+      "title": "Шейдеры",
+      "type": "shaderpacks",
+      "description": "Шейдеры из проверенной сборки Mag Mechanic 2.",
+      "targetFolder": "shaderpacks",
+      "items": [
+        {
+          "name": "Bliss",
+          "description": "Кинематографичные облака, освещение и атмосферные эффекты.",
+          "version": "2.1.2",
+          "fileName": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+          "url": "https://github.com/xenk12/MagMechanic2-client/releases/download/content-20260725/Bliss_v2.1.2_.Chocapic13_Shaders_edit.zip",
+          "mirrors": [
+            "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA&path=%2FBliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
+          ],
+          "sha256": "f41db92acc585fe9ffe0cc124d6ecaea27cef9ded91129ebc2a8e60226947b2c",
+          "size": 1791406,
+          "recommended": true
+        },
+        {
+          "name": "Complementary Reimagined",
+          "description": "Сбалансированный шейдер для хорошего качества изображения и производительности.",
+          "version": "5.8.1",
+          "fileName": "ComplementaryReimagined_r5.8.1.zip",
+          "url": "https://github.com/xenk12/MagMechanic2-client/releases/download/content-20260725/ComplementaryReimagined_r5.8.1.zip",
+          "mirrors": [
+            "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA&path=%2FComplementaryReimagined_r5.8.1.zip"
+          ],
+          "sha256": "3f1cd389e717b2e62f58edff222059b9c60de71b14bb49b517eb58318ce35b15",
+          "size": 546925,
+          "recommended": true
+        },
+        {
+          "name": "Photon",
+          "description": "Контрастное освещение и выразительная погода.",
+          "version": "1.3b",
+          "fileName": "photon_v1.3b.zip",
+          "url": "https://github.com/xenk12/MagMechanic2-client/releases/download/content-20260725/photon_v1.3b.zip",
+          "mirrors": [
+            "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA&path=%2Fphoton_v1.3b.zip"
+          ],
+          "sha256": "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead",
+          "size": 3800987,
+          "recommended": true
+        },
+        {
+          "name": "Solas Shader",
+          "description": "Яркое объёмное освещение с развитой системой облаков и отражений.",
+          "version": "3.7",
+          "fileName": "Solas Shader V3.7.zip",
+          "url": "https://github.com/xenk12/MagMechanic2-client/releases/download/content-20260725/Solas.Shader.V3.7.zip",
+          "mirrors": [
+            "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA&path=%2FSolas%20Shader%20V3.7.zip"
+          ],
+          "sha256": "c8f53e66e567f2e8eacddbcc31ecbb6d77ac5f594d19423247c2a96c44d96a47",
+          "size": 1241525,
+          "recommended": true
+        }
+      ]
+    }
+  ]
 }
