@@ -1,14 +1,9 @@
 {
-  "version": "1.4.15",
-  "setupUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.15/MagMechanicLauncher_Setup.exe",
-  "setupMirrors": [
-    "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA&path=%2FMagMechanicLauncher_Setup.exe"
-  ],
-  "sha256": "fe0046060e27a19d232af9d628e3acbff470e355732031292f25cb939b68988f",
-  "portableZipUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.15/MagMechanicLauncher_Portable_Update_1.4.15.zip",
+  "version": "1.4.21",
+  "portableZipUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.21/MagMechanicLauncher_Portable_1.4.21.zip",
   "portableZipMirrors": [
-    "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https%3A%2F%2Fdisk.yandex.ru%2Fd%2Fc57ClWK5604gRA&path=%2FMagMechanicLauncher_Portable_Update_1.4.15.zip"
+    "https://mag-mechanics-2.playit.plus/downloads/1.4.21/MagMechanicLauncher_Portable_1.4.21.zip"
   ],
-  "portableSha256": "73fed85eb33d281964c47eff7f590a6c5ff222789aea9d9de502be0267bcd4aa",
-  "notes": "Launcher 1.4.15: загрузка модов и обновлений полностью отключена с Hostero — используются только GitHub и Яндекс Диск. Для всех игроков отключены сообщения KeybindsGalore о совпадающих клавишах."
+  "portableSha256": "55b43682076175ec4ec4e78266df01c37746f13eac620fae47d51ebb2e70dc04",
+  "notes": "Чёткий скин и плащ, латунный ползунок, исправления восстановления пароля и загрузки игры, статус сохранения мира с оценкой времени. Windows; моды не меняются."
 }
