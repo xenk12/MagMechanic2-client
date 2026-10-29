@@ -1,9 +1,9 @@
 {
-  "version": "1.4.21",
-  "portableZipUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.21/MagMechanicLauncher_Portable_1.4.21.zip",
+  "version": "1.4.22",
+  "portableZipUrl": "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.22/MagMechanicLauncher_Portable_1.4.22.zip",
   "portableZipMirrors": [
-    "https://mag-mechanics-2.playit.plus/downloads/1.4.21/MagMechanicLauncher_Portable_1.4.21.zip"
+    "https://mag-mechanics-2.playit.plus/downloads/1.4.22/MagMechanicLauncher_Portable_1.4.22.zip"
   ],
-  "portableSha256": "55b43682076175ec4ec4e78266df01c37746f13eac620fae47d51ebb2e70dc04",
-  "notes": "Чёткий скин и плащ, латунный ползунок, исправления восстановления пароля и загрузки игры, статус сохранения мира с оценкой времени. Windows; моды не меняются."
+  "portableSha256": "ed276ef1234ac942ca529ec4cc043dd6bc8e0818906ae1605460ab9ec9c6e8aa",
+  "notes": "ForgeWrapper встроен в лаунчер: Prism устанавливать не нужно. Предупреждение об устаревших игровых логах. Windows; обязательные моды и мир не меняются."
 }
