@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-25-optional-vr-lod",
+  "version": "2026-10-29-jade-neat",
   "sections": [
     {
       "id": "recommended-mods",
@@ -8,6 +8,30 @@
       "description": "Необязательные клиентские моды. Они не входят в обязательную серверную синхронизацию.",
       "targetFolder": "mods",
       "items": [
+        {
+          "name": "Jade — подсказки о блоках и существах",
+          "description": "Minecraft 1.21.1 / NeoForge. Показывает название и сведения об объекте под прицелом. Необязательный клиентский мод; дополнительные серверные данные доступны при установке Jade на сервере. Проверен запуск и вход в изолированный сервер нашей сборки. Перед установкой закройте Minecraft.",
+          "version": "15.10.6",
+          "fileName": "Jade-1.21.1-NeoForge-15.10.6.jar",
+          "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/eYz2YBGT/Jade-1.21.1-NeoForge-15.10.6.jar",
+          "pageUrl": "https://modrinth.com/mod/jade/version/eYz2YBGT",
+          "sha256": "276F1F65A20D04F536989C4F311949D770B52C440C23C2B904A08860F3C93810",
+          "size": 726853,
+          "recommended": true,
+          "mirrors": []
+        },
+        {
+          "name": "Neat — здоровье над существами",
+          "description": "Minecraft 1.21.1 / NeoForge. Полоски здоровья над существами. Только для клиента, на сервер устанавливать не нужно. Проверен запуск и вход в изолированный сервер нашей сборки. Перед установкой закройте Minecraft.",
+          "version": "1.21-47",
+          "fileName": "Neat-1.21-47-NEOFORGE.jar",
+          "url": "https://cdn.modrinth.com/data/Ins7SzzR/versions/kALoScYM/Neat-1.21-47-NEOFORGE.jar",
+          "pageUrl": "https://modrinth.com/mod/neat/version/kALoScYM",
+          "sha256": "6116E6EE7202C95335FCB008F4DF1C7EF6A315269555B1422353F8796A58CA2C",
+          "size": 110834,
+          "recommended": true,
+          "mirrors": []
+        },
         {
           "name": "Better Ping Display",
           "description": "Показывает точный пинг игроков в списке Tab.",
