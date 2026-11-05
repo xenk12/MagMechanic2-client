@@ -666,10 +666,10 @@
                                  ]
                  },
                  {
-                     "fileName":  "mag_mechanic_guard-0.2.0.jar",
-                     "sha256":  "8939db04e4a9ea8c2b71c0c9d34e7fdea7612e195ba752cbe5de6b614e7b9108",
-                     "size":  55481,
-                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/mods-20260801/mag_mechanic_guard-0.2.0.jar",
+                     "fileName":  "mag_mechanic_guard-0.2.1-local.2.jar",
+                     "sha256":  "fa1c17753d63c10295bd9c4e146f8979b74ffaba45002b6d15c78b9be6325cff",
+                     "size":  56406,
+                     "url":  "https://github.com/xenk12/MagMechanic2-client/releases/download/launcher-1.4.17/mag_mechanic_guard-0.2.1-local.2.jar",
                      "required":  true,
                      "mirrors":  [
                                      null
