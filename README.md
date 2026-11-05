@@ -2,6 +2,10 @@
 
 Public download repository for Mag Mechanic 2 launcher files.
 
+## Текущая задача для Codex (05.11.2026)
+
+- [Срочный точечный hotfix авторизации, Guard и HTTPS](docs/LAUNCHER_GUARD_HTTPS_HOTFIX_TZ_RU.md) — найти изменение, после которого перестал работать вход игроков; не переписывать лаунчер целиком и не изменять сервер без согласования.
+
 ## Release assets to upload
 
 Upload these files manually to the matching releases if they are missing.
