@@ -2,9 +2,10 @@
 
 Public download repository for Mag Mechanic 2 launcher files.
 
-## Текущая задача для Codex (05.11.2026)
+## Актуальная задача для Codex (09.11.2026)
 
-- [Срочный точечный hotfix авторизации, Guard и HTTPS](docs/LAUNCHER_GUARD_HTTPS_HOTFIX_TZ_RU.md) — найти изменение, после которого перестал работать вход игроков; не переписывать лаунчер целиком и не изменять сервер без согласования.
+- **[Обновление сборки: ревизия модов, Let it Walk, Create Encased и баки произвольной формы](docs/LAUNCHER_MODPACK_UPDATE_TZ_RU.md)** — основное текущее ТЗ. Проверять настоящие версии и совместимость, готовить минимальные фиксы в лаборатории и только затем публикацию.
+- [Архив диагностики Guard/Playit/HTTPS и сети игроков](docs/LAUNCHER_GUARD_HTTPS_HOTFIX_TZ_RU.md) — сохранённые симптомы, проверенные факты и ограничения; не путать с текущим заданием.
 
 ## Release assets to upload
 
